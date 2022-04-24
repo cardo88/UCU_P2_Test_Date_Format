@@ -1,0 +1,12 @@
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\bin\Debug\net6.0\Program.dll
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.dll
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\RicardoCastro\Desktop\UCU_P2_Proy_Temp\PII_Test_Date_Format\src\Program\obj\Debug\net6.0\ref\Program.dll
