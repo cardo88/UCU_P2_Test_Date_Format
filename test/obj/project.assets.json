@@ -882,6 +882,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Program/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Program.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Program.dll": {}
+        }
       }
     }
   },
@@ -3844,6 +3854,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Program/1.0.0": {
+      "type": "project",
+      "path": "../src/Program/Program.csproj",
+      "msbuildProject": "../src/Program/Program.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3851,6 +3866,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
+      "Program >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -3860,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\test.csproj",
+      "projectUniqueName": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\test.csproj",
+      "projectPath": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\test.csproj",
       "packagesPath": "C:\\Users\\RicardoCastro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\obj\\",
+      "outputPath": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RicardoCastro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3878,7 +3894,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj": {
+              "projectPath": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

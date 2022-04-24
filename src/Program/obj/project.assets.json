@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj",
+      "projectUniqueName": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj",
+      "projectPath": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\RicardoCastro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RicardoCastro\\Desktop\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\obj\\",
+      "outputPath": "c:\\temp\\UCU_P2_Proy_Temp\\PII_Test_Date_Format\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RicardoCastro\\AppData\\Roaming\\NuGet\\NuGet.Config"
