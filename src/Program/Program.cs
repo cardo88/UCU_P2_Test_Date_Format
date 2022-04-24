@@ -22,6 +22,12 @@ namespace DateFormat
         {
             string testDate = "10/11/1977";
             Console.WriteLine("{0} se convierte a: {1} ", testDate, ChangeFormat(testDate));
+            Console.WriteLine("{0} se convierte a: {1} ", testDate, OtherChangeFormat(testDate));
+        }
+
+        public static String OtherChangeFormat(String testDate)
+        {
+            return testDate.Substring(0,2) + "-" + testDate.Substring(3, 2) + "-" + testDate.Substring(6);
         }
     }
 }
